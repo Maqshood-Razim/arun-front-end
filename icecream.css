@@ -1,0 +1,96 @@
+.header{
+  width: 100%;
+  height: 171px;
+  background: #fff;
+}
+body{
+    margin: 0px;
+}
+.arun-ice{
+    width: 140px;
+    position: relative;
+    left: 32px;
+    top: 5px;
+}
+.house{
+    margin-top: -48px;
+    margin-left: 290px;
+}
+.para1{
+    color: #A6A8AB;
+    margin-left: 336px;
+    margin-top: -24px;
+    font-family: 'Helvetica';
+}
+.para2{
+    border: 1px;
+    color: #A6A8AB;
+    margin-left: 403px;
+    margin-top: -35px;
+    font-family: 'Helvetica';
+    font-size: 17px;
+}
+.para3{
+    color: #A6A8AB;
+    margin-left: 471px;
+    margin-top: -17px;
+    font-family: 'Helvetica';
+}
+.para4{
+    color: #A6A8AB;
+    margin-left: 519px;
+    margin-top: -35px;
+    font-family: 'Helvetica';
+}
+.line{
+    width: 781px;
+    margin-left: 217px;
+    border-radius: 328px;
+    height: 0px;
+    background:#A6A8AB;
+    border: 0;
+    margin-top: -13px;
+}
+.youtube{
+    margin-left: 1520px;
+    height: 31px;
+    margin-top: -37px;
+    position: relative;
+    top: -27px;
+
+}
+.insta{
+    height: 31px;
+    position: relative;
+    top: -27px;
+
+}
+.container{
+    width: 100%;
+    height: 700px;
+    background: #fff;
+
+}
+.pic{
+    width: 233px;
+    margin-left: 370px;
+}
+.another{
+    width: 47px;
+    margin-left: 619px;
+    margin-top: -95px;
+    position: relative;
+    top: -118px;
+}
+.line2{
+    width: 500px;
+    margin-left: 129px;
+    border-radius: 328px;
+    height: 0px;
+    background:#000000;
+    border: 0;
+    margin-top: -13px;
+}
+.big{
+    width: 1683px;
+}
